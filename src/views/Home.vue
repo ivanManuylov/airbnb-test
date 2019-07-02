@@ -1,18 +1,34 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <div class="home">Home</div>
+    <GridWrapper v-bind:list="list" />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import GridWrapper from '@/components/GridWrapper';
+import axios from 'axios';
 
 export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
+    data() {
+        return {
+            list: [],
+        }
+    },
+    name: 'home',
+    components: {
+        GridWrapper
+    },
+    methods: {
+        async fetch() {
+            axios('/api/info.json').then(response => {
+                this.list = response.data.explore_tabs[0].sections[0].trip_templates;
+                console.log(this.list[0]);
+            })
+        },
+    },
+    created() {
+        this.fetch();
+    },
 }
 </script>

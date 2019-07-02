@@ -1,0 +1,2084 @@
+{
+    "explore_tabs": [
+        {
+            "tab_id": "experience_tab",
+            "tab_name": "experiences",
+            "pagination_metadata": {
+                "has_next_page": true,
+                "items_offset": 18,
+                "section_offset": 0,
+                "has_previous_page": false
+            },
+            "sections": [
+                {
+                    "backend_search_id": "36d4ba24-0d7f-417b-b0c7-53be4e8fcbc6",
+                    "display_type": "grid",
+                    "experiments_metadata": [],
+                    "result_type": "experiences",
+                    "search_session_id": "7bc7450d-9288-4af1-b10c-adb943afa636",
+                    "section_id": "7bc7450d-9288-4af1-b10c-adb943afa636",
+                    "section_type_uid": "PAGINATED_EXPERIENCES",
+                    "is_paginated": true,
+                    "bankai_section_id": "39",
+                    "refinements": [],
+                    "trip_templates": [
+                        {
+                            "action_kicker": "дегустация коктейлей",
+                            "base_price": 1399.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "South Korea",
+                            "display_text": "내 손으로 직접 칵테일을 만들어 보세요.",
+                            "id": 689936,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация коктейлей · Куми",
+                            "lat": 36.12899020911694,
+                            "lng": 128.33330533667262,
+                            "picture": {
+                                "id": 769167002,
+                                "dominant_saturated_color": "#0A80B2",
+                                "large_ro": "https://a0.muscache.com/im/pictures/79989834-1c92-485e-b3ab-f0597c12c092.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/79989834-1c92-485e-b3ab-f0597c12c092.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcTJvN7w/6DZ+lEtGEYQ8wG9yMXVydL0AAI5KBb10aABraKF9vH/Fi47ENSutMvNobMbEDvOfEsAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#096E99",
+                                "scrim_color": "#230D0F",
+                                "original_picture": "https://a0.muscache.com/pictures/79989834-1c92-485e-b3ab-f0597c12c092.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/79989834-1c92-485e-b3ab-f0597c12c092.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 769166789,
+                                    "dominant_saturated_color": "#EE3E08",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/ffe6ece0-e4e9-4bca-acde-3e4558626de5.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/ffe6ece0-e4e9-4bca-acde-3e4558626de5.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWWrxNTb5hgSCgG6o5Cf/zARCAQBaHyOLhT/ICQlAVRBSzBWXS4fBQGvp5snKSwWwp3mthGOihmJGgAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#391519",
+                                    "poster": "https://a0.muscache.com/im/pictures/ffe6ece0-e4e9-4bca-acde-3e4558626de5.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/ffe6ece0-e4e9-4bca-acde-3e4558626de5.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/ffe6ece0-e4e9-4bca-acde-3e4558626de5.jpg?aki_policy=x_large",
+                                    "provider": "stock_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 0,
+                            "star_rating": 0.0,
+                            "tier_id": 0,
+                            "title": "내 손으로 직접 칵테일을 만들어 보세요.",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 0.0,
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "교준",
+                                "has_profile_pic": false,
+                                "id": 26351501,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "1.5 часа"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Корейский",
+                            "base_price_string": "1 399₽",
+                            "is_new_pdp": false,
+                            "price_string": "1 399₽ за человека"
+                        },
+                        {
+                            "action_kicker": "танцы",
+                            "base_price": 10108.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Colombia",
+                            "display_text": "PRIVATE POOL PARTY",
+                            "id": 714401,
+                            "is_social_good": false,
+                            "kicker_text": "танцы · Жирардо",
+                            "lat": 4.707649092066864,
+                            "lng": -74.05394137308693,
+                            "picture": {
+                                "id": 710707776,
+                                "dominant_saturated_color": "#BFCADF",
+                                "large_ro": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWO0cbeQkZXW1LFljAsJ4uPjVlDWYUzJyH3//K20JD9jWmrQx/d/eETYGAP9vCTk2P+z/AYAPsQOw0j0imIAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#5974A9",
+                                "scrim_color": "#1F1F1F",
+                                "original_picture": "https://a0.muscache.com/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 710707776,
+                                    "dominant_saturated_color": "#BFCADF",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWO0cbeQkZXW1LFljAsJ4uPjVlDWYUzJyH3//K20JD9jWmrQx/d/eETYGAP9vCTk2P+z/AYAPsQOw0j0imIAAAAASUVORK5CYII=",
+                                    "scrim_color": "#1F1F1F",
+                                    "poster": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/8639695a-810d-45f3-baf4-7332dd6c3eb8.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 3,
+                            "product_type": 1,
+                            "review_count": 0,
+                            "star_rating": 0.0,
+                            "tier_id": 0,
+                            "title": "PRIVATE POOL PARTY",
+                            "availabilities": [],
+                            "primary_category_name": "Entertainment",
+                            "display_rating": 0.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 710707782,
+                                        "dominant_saturated_color": "#F3FBFD",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/b32f0a73-53a8-4d69-a457-86497e927f49.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/b32f0a73-53a8-4d69-a457-86497e927f49.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AcXQ3fr69yYfFgE6SEASExXt8OIBWmBiCggF7fDxAXN6jOnn3zA2QgFKW1nu8Oj9AflITxgFFx5VsgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#101E0F",
+                                        "poster": "https://a0.muscache.com/im/pictures/b32f0a73-53a8-4d69-a457-86497e927f49.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/b32f0a73-53a8-4d69-a457-86497e927f49.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/b32f0a73-53a8-4d69-a457-86497e927f49.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 1
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Carolina",
+                                "has_profile_pic": false,
+                                "id": 231715331,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "18 часов",
+                                "включая Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Испанский",
+                            "base_price_string": "10 108₽",
+                            "is_new_pdp": false,
+                            "price_string": "10 108₽ за человека"
+                        },
+                        {
+                            "action_kicker": "пешая экскурсия",
+                            "base_price": 4500.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Russia",
+                            "display_text": "Visit real Russian dacha and banya!",
+                            "id": 882544,
+                            "is_social_good": false,
+                            "kicker_text": "пешая экскурсия · Екатеринбург",
+                            "lat": 56.838548979493325,
+                            "lng": 60.59795545447387,
+                            "picture": {
+                                "id": 769351154,
+                                "dominant_saturated_color": "#CBDAF1",
+                                "large_ro": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AcfW7e7v8fX2+e/w8QH3/P73+f72+Pzr6OcBeGxcCQwP8fkI6vHuAUhKSAQD/gEE9ggJCgE2Nzj/AP3//PwIBQayHSVUwBRzcQAAAABJRU5ErkJggg==",
+                                "saturated_a11y_dark_color": "#3874CE",
+                                "scrim_color": "#242424",
+                                "original_picture": "https://a0.muscache.com/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 769351154,
+                                    "dominant_saturated_color": "#CBDAF1",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AcfW7e7v8fX2+e/w8QH3/P73+f72+Pzr6OcBeGxcCQwP8fkI6vHuAUhKSAQD/gEE9ggJCgE2Nzj/AP3//PwIBQayHSVUwBRzcQAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#242424",
+                                    "poster": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/1374a4e3-2ac4-4473-9f9f-630985e33848.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 3,
+                            "product_type": 1,
+                            "review_count": 1,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Visit real Russian dacha and banya!",
+                            "availabilities": [],
+                            "primary_category_name": "Entertainment",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 769351156,
+                                        "dominant_saturated_color": "#669810",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/a245c8d5-f6e7-466e-a8c1-0ba191860f6d.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/a245c8d5-f6e7-466e-a8c1-0ba191860f6d.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWN0TBNQ4pbUey/LOH1ZnZ6MyJ8/rxinz2hW5f3OwcHJGG2vwqCkLSPCz5jkpicrwn/i+hMAfk0PD3xKSdMAAAAASUVORK5CYII=",
+                                        "scrim_color": "#21170D",
+                                        "poster": "https://a0.muscache.com/im/pictures/a245c8d5-f6e7-466e-a8c1-0ba191860f6d.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/a245c8d5-f6e7-466e-a8c1-0ba191860f6d.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/a245c8d5-f6e7-466e-a8c1-0ba191860f6d.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 769351157,
+                                        "dominant_saturated_color": "#111105",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/a2da0eb5-493b-4986-94e2-dd286889304d.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/a2da0eb5-493b-4986-94e2-dd286889304d.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Adbf7/v7+/X2+QG8vLEFAwQBAwQBGhsLLCYi0NfbAVNFNDQsK+Xn6gGWhmgDAwP/AAJiQRSNGhZ15QAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#111105",
+                                        "poster": "https://a0.muscache.com/im/pictures/a2da0eb5-493b-4986-94e2-dd286889304d.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/a2da0eb5-493b-4986-94e2-dd286889304d.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/a2da0eb5-493b-4986-94e2-dd286889304d.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 769351161,
+                                        "dominant_saturated_color": "#F8F9FC",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/f5c38628-d67c-4b25-b2ba-8c4c17a1fb0c.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/f5c38628-d67c-4b25-b2ba-8c4c17a1fb0c.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AePp8f4ABuDf49zb2hUZHgF3dnX6/wcLBvMFBgovLTIBUFNOAffxAgwV7OvoAwL4AUREQfr4+QIEB/j68QcFALzBG7drSh0FAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#211F20",
+                                        "poster": "https://a0.muscache.com/im/pictures/f5c38628-d67c-4b25-b2ba-8c4c17a1fb0c.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/f5c38628-d67c-4b25-b2ba-8c4c17a1fb0c.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/f5c38628-d67c-4b25-b2ba-8c4c17a1fb0c.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Evgeny",
+                                "has_profile_pic": false,
+                                "id": 3222951,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "4.5 часов",
+                                "включая Трансфер, Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "4 500₽",
+                            "is_new_pdp": false,
+                            "price_string": "4 500₽ за человека"
+                        },
+                        {
+                            "action_kicker": "встреча с животными",
+                            "base_price": 2058.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Germany",
+                            "display_text": "Kuh-Kuscheln",
+                            "id": 674533,
+                            "is_social_good": false,
+                            "kicker_text": "встреча с животными · Фрайбург-им-Брайсгау",
+                            "lat": 47.75257115556404,
+                            "lng": 7.8779354236249794,
+                            "picture": {
+                                "id": 694787175,
+                                "dominant_saturated_color": "#CF915B",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a1d1a4bc-817c-4d38-a1fd-89e2daef30c0.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a1d1a4bc-817c-4d38-a1fd-89e2daef30c0.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWMMTTfn+v9fWc5AU0JGjJ+B0T9ZX5VJxllbjZGN+e+j04whUebMb3k93c2vv7zM++0TADUYD4+ky/dAAAAAAElFTkSuQmCC",
+                                "saturated_a11y_dark_color": "#965D2C",
+                                "scrim_color": "#1F1E1A",
+                                "original_picture": "https://a0.muscache.com/pictures/a1d1a4bc-817c-4d38-a1fd-89e2daef30c0.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a1d1a4bc-817c-4d38-a1fd-89e2daef30c0.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 694786650,
+                                    "dominant_saturated_color": "#C48752",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/fe47b645-703b-4510-929c-6bc4fadebb0a.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/fe47b645-703b-4510-929c-6bc4fadebb0a.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNctXnBn7/f1RT1GcNTTCyVzNQFmRm9/A3DLBzePL3I6OJqVpjj8vzHQ8aAzHRxSW4ZocMA5jESSoLGSkkAAAAASUVORK5CYII=",
+                                    "scrim_color": "#1D1E19",
+                                    "poster": "https://a0.muscache.com/im/pictures/fe47b645-703b-4510-929c-6bc4fadebb0a.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/fe47b645-703b-4510-929c-6bc4fadebb0a.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/fe47b645-703b-4510-929c-6bc4fadebb0a.jpg?aki_policy=x_large",
+                                    "provider": "stock_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 6,
+                            "product_type": 1,
+                            "review_count": 3,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Kuh-Kuscheln",
+                            "availabilities": [],
+                            "primary_category_name": "Nature",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 769144600,
+                                        "dominant_saturated_color": "#840C10",
+                                        "caption": "Landwirt Bernd bei der Begrüßung ",
+                                        "picture": "https://a0.muscache.com/im/pictures/245a3951-a5c1-4abd-a957-6df981cf9d51.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/245a3951-a5c1-4abd-a957-6df981cf9d51.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AaKWhdLp3AMCGAFlcmr8/uIaFAgBZW5s4drOIyEHAUxWTPPZ3Q4HAgFjPir3BAYVKBAYIBKkDcVcswAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1F2120",
+                                        "poster": "https://a0.muscache.com/im/pictures/245a3951-a5c1-4abd-a957-6df981cf9d51.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/245a3951-a5c1-4abd-a957-6df981cf9d51.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/245a3951-a5c1-4abd-a957-6df981cf9d51.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 769144602,
+                                        "dominant_saturated_color": "#3F562A",
+                                        "caption": "Menschen mit Handicap  ",
+                                        "picture": "https://a0.muscache.com/im/pictures/ecba774c-7fd0-48a6-a174-5bcbed134b16.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/ecba774c-7fd0-48a6-a174-5bcbed134b16.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYGYmQYCBQr4+AABC+zw8QFVW0EqHC33+wLR1e0BC/4BRlMtORosJzlSjZKe///+AUZVKgwHFR0GKPD4+d7e3ypkGvAAZqb2AAAAAElFTkSuQmCC",
+                                        "scrim_color": "#232429",
+                                        "poster": "https://a0.muscache.com/im/pictures/ecba774c-7fd0-48a6-a174-5bcbed134b16.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/ecba774c-7fd0-48a6-a174-5bcbed134b16.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/ecba774c-7fd0-48a6-a174-5bcbed134b16.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 777481626,
+                                        "dominant_saturated_color": "#CFE187",
+                                        "caption": "Erstes Kennenlernen",
+                                        "picture": "https://a0.muscache.com/im/pictures/1e9b7b0e-d1ba-4504-91a6-b64b8e0c5a25.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/1e9b7b0e-d1ba-4504-91a6-b64b8e0c5a25.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//Aca7pfPq6dbBtB1IOefi5wGLdFrZ19oKBgMcMiT09PUBaVxNBwL4+fXxIBwYAAP/AWFWR/v08P8AAOLm6PHz91LZIn76sluPAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#23160D",
+                                        "poster": "https://a0.muscache.com/im/pictures/1e9b7b0e-d1ba-4504-91a6-b64b8e0c5a25.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/1e9b7b0e-d1ba-4504-91a6-b64b8e0c5a25.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/1e9b7b0e-d1ba-4504-91a6-b64b8e0c5a25.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Heidrun",
+                                "has_profile_pic": false,
+                                "id": 146299991,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Немецкий",
+                            "base_price_string": "2 058₽",
+                            "is_new_pdp": false,
+                            "price_string": "2 058₽ за человека"
+                        },
+                        {
+                            "action_kicker": "прогулка на природе",
+                            "base_price": 824.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "India",
+                            "display_text": "Всё о жизни в экологичной пермакультуре",
+                            "id": 430841,
+                            "is_social_good": false,
+                            "kicker_text": "прогулка на природе · Darjiling",
+                            "lat": 26.95365861108839,
+                            "lng": 88.29177269732232,
+                            "picture": {
+                                "id": 616289141,
+                                "dominant_saturated_color": "#DE9922",
+                                "large_ro": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNUdVQX4GZ5+fg9o5aDqigfx4s3Hxm97NS1+X6f+cTA6OqsqiLN+4dTkFHSgN/eVE2SgxcAg/ANvOk11zYAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#9B6A17",
+                                "scrim_color": "#0A1004",
+                                "original_picture": "https://a0.muscache.com/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 616289141,
+                                    "dominant_saturated_color": "#DE9922",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNUdVQX4GZ5+fg9o5aDqigfx4s3Hxm97NS1+X6f+cTA6OqsqiLN+4dTkFHSgN/eVE2SgxcAg/ANvOk11zYAAAAASUVORK5CYII=",
+                                    "scrim_color": "#0A1004",
+                                    "poster": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 6,
+                            "product_type": 1,
+                            "review_count": 17,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Всё о жизни в экологичной пермакультуре",
+                            "availabilities": [],
+                            "primary_category_name": "Nature",
+                            "display_rating": 4.94,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 670346151,
+                                        "dominant_saturated_color": "#699642",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZCwlPPz8NjLzRsgIhMUEgF9lo717O/07+omJR4LChQBgKSYvqK2GRAMMCMi+AIDAZyYndvR1gUAABIREvsHBdAYGpKMsmpfAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#201E29",
+                                        "poster": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 670346152,
+                                        "dominant_saturated_color": "#233C61",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AWB3ay4tL/4BCyclIQFibl0GCTEvMxLW1rgBbYJc5+krEfTN9PHzAUZWPhwJIezZ2PcC/AFMZEgPCAr84vQGAgX8WBkogqJRMQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#332B28",
+                                        "poster": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 670346154,
+                                        "dominant_saturated_color": "#1C260E",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AT5UKwT7Avv8AQ8VAv4DAwFGXSYMBA3w6vceGhL4A/0BcGRG8Pb5SCss5f3v2+r4AZhyXQYEAxsQDN34+9Ly6w/cHC4ZhNT1AAAAAElFTkSuQmCC",
+                                        "scrim_color": "#1C260E",
+                                        "poster": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Utsow",
+                                "has_profile_pic": false,
+                                "id": 34613007,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "4 часа",
+                                "включая Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "824₽",
+                            "is_new_pdp": false,
+                            "price_string": "824₽ за человека"
+                        },
+                        {
+                            "action_kicker": "урок кулинарии",
+                            "base_price": 2205.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Nederland",
+                            "display_text": "Workshop plant-based colored chocolates",
+                            "id": 901096,
+                            "is_social_good": false,
+                            "kicker_text": "урок кулинарии · Фрислэнд",
+                            "lat": 52.972416443365766,
+                            "lng": 5.793428425690274,
+                            "picture": {
+                                "id": 783347414,
+                                "dominant_saturated_color": "#19101C",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdTKuMjP3ebr8hUUFTMtIQGsn5qxtssFEA3n4dpmZ2EBvLSmsKrI5vftDwEQV1xBAca5qLq3wQIFBvv7/D1CQT2zIIgl+q9LAAAAAElFTkSuQmCC",
+                                "saturated_a11y_dark_color": "#19101C",
+                                "scrim_color": "#18101B",
+                                "original_picture": "https://a0.muscache.com/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 783347414,
+                                    "dominant_saturated_color": "#19101C",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdTKuMjP3ebr8hUUFTMtIQGsn5qxtssFEA3n4dpmZ2EBvLSmsKrI5vftDwEQV1xBAca5qLq3wQIFBvv7/D1CQT2zIIgl+q9LAAAAAElFTkSuQmCC",
+                                    "scrim_color": "#18101B",
+                                    "poster": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=x_large",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 1,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Workshop plant-based colored chocolates",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 774432329,
+                                        "dominant_saturated_color": "#0A111A",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//Abq6uePh2/P26+v0+Ec8SQGboZjPycP5/wv9+O3+BBIBeH916+Xe5ur5My8mQDk9AZSPgh0XFdHc4BgZETEoMRlzItgv7GlcAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#0A1119",
+                                        "poster": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 774432334,
+                                        "dominant_saturated_color": "#2A1223",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbixrM3U1hIPCAECCTMzMgGUkYfY0NUSFgTw8QtKTD8BsK2bsa/LGBQG5+vyRkQ9AcO6qcjL3/P7+AX/CEdBKnk9HZDyYgMqAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#291222",
+                                        "poster": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 3
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 774432342,
+                                        "dominant_saturated_color": "#BB964D",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbKnju3s9eDZ3BYkJiQkJwGSgXHk5uz6+fLw9fw+QkUBmohg7u0B5ujs8PL3Uk5LAauUdeHg6g8PEvoA+i84SLnCI/FuBlW+AAAAAElFTkSuQmCC",
+                                        "scrim_color": "#20110E",
+                                        "poster": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 4
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Anita",
+                                "has_profile_pic": false,
+                                "id": 266277733,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "3 часа",
+                                "включая Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Языки: Английский, Голландский, Немецкий",
+                            "base_price_string": "2 205₽",
+                            "is_new_pdp": false,
+                            "price_string": "2 205₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация вин",
+                            "base_price": 11023.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "France",
+                            "display_text": "Винный тур: Сансер и окрестности",
+                            "id": 297057,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация вин · Жьен",
+                            "lat": 47.33113097458448,
+                            "lng": 2.839049781105465,
+                            "picture": {
+                                "id": 623667765,
+                                "dominant_saturated_color": "#D61C28",
+                                "large_ro": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZmuTgQDAxIGFwL9Ae7/6gF/e04cFCMQFAwE/uro9vABl22E5vfYTkQX8tHcm7C5sAAVt6r5AwUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#D61C28",
+                                "scrim_color": "#322A15",
+                                "original_picture": "https://a0.muscache.com/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 623667765,
+                                    "dominant_saturated_color": "#D61C28",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZmuTgQDAxIGFwL9Ae7/6gF/e04cFCMQFAwE/uro9vABl22E5vfYTkQX8tHcm7C5sAAVt6r5AwUAAAAASUVORK5CYII=",
+                                    "scrim_color": "#322A15",
+                                    "poster": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/4c2fdf50-b2aa-47ad-a8c0-76f1db03aa35.jpg?aki_policy=x_large",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 7,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Винный тур: Сансер и окрестности",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 669875187,
+                                        "dominant_saturated_color": "#37251B",
+                                        "caption": "Wine maker explains her wines",
+                                        "picture": "https://a0.muscache.com/im/pictures/813e2395-4fc2-466b-a09f-0404a3ead1fe.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/813e2395-4fc2-466b-a09f-0404a3ead1fe.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AVlFOR4ZE+jq7wGKZVjl7+7o7O4BmWhqEBwQtcvMAbuRhMLV0tHe3gFfQ0Pp+e8IEAhsuRlCY+SkTQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1A150F",
+                                        "poster": "https://a0.muscache.com/im/pictures/813e2395-4fc2-466b-a09f-0404a3ead1fe.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/813e2395-4fc2-466b-a09f-0404a3ead1fe.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/813e2395-4fc2-466b-a09f-0404a3ead1fe.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 669875188,
+                                        "dominant_saturated_color": "#559EE7",
+                                        "caption": "A historic 15C building in Sancerre",
+                                        "picture": "https://a0.muscache.com/im/pictures/5ddc8458-60ae-4a5a-bb5d-85a4fd2d6dc8.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/5ddc8458-60ae-4a5a-bb5d-85a4fd2d6dc8.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AUiM2RDy1ujbzwFMl+Mp/9fu2swBXXyaQRDk1t3fAXBqZTs2Keji3QE2KyRPTUUQC/+xZBiw2knE4AAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1E1412",
+                                        "poster": "https://a0.muscache.com/im/pictures/5ddc8458-60ae-4a5a-bb5d-85a4fd2d6dc8.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/5ddc8458-60ae-4a5a-bb5d-85a4fd2d6dc8.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/5ddc8458-60ae-4a5a-bb5d-85a4fd2d6dc8.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 669875189,
+                                        "dominant_saturated_color": "#A6D2F4",
+                                        "caption": "One of the wine growing villages ",
+                                        "picture": "https://a0.muscache.com/im/pictures/2fce0aee-7e1e-4833-b448-603fcb96f0f2.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/2fce0aee-7e1e-4833-b448-603fcb96f0f2.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWie3QAAAAIBAQGIrMIMCgkGAgEBaXNC9/35BwYDAauca+3u89vk5QGzpnISDQnd2OmSUBPbJsnrswAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#363A22",
+                                        "poster": "https://a0.muscache.com/im/pictures/2fce0aee-7e1e-4833-b448-603fcb96f0f2.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/2fce0aee-7e1e-4833-b448-603fcb96f0f2.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/2fce0aee-7e1e-4833-b448-603fcb96f0f2.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Nicholas",
+                                "has_profile_pic": false,
+                                "id": 199712991,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "8.5 часов",
+                                "включая Трансфер и Оборудование"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Языки: Английский, Французский",
+                            "base_price_string": "11 023₽",
+                            "is_new_pdp": false,
+                            "price_string": "11 023₽ за человека"
+                        },
+                        {
+                            "action_kicker": "прогулка для гурманов",
+                            "base_price": 3006.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Bulgaria",
+                            "display_text": "Taste Varna with Varna Food Tours",
+                            "id": 731648,
+                            "is_social_good": false,
+                            "kicker_text": "прогулка для гурманов · Варна",
+                            "lat": 43.20706992864431,
+                            "lng": 27.918691026754246,
+                            "picture": {
+                                "id": 717003731,
+                                "dominant_saturated_color": "#9DBD1F",
+                                "large_ro": "https://a0.muscache.com/im/pictures/577ba7c2-87dc-4b36-b426-931662a7cf57.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/577ba7c2-87dc-4b36-b426-931662a7cf57.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNMyfV3dHL69ncvY217vpyC5O5j8xkTk9w4RfnuPn3IWJYYom/nwMP4kTEiJpKbjSPRWAYA4fARCSeYidcAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#667B13",
+                                "scrim_color": "#21261F",
+                                "original_picture": "https://a0.muscache.com/pictures/577ba7c2-87dc-4b36-b426-931662a7cf57.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/577ba7c2-87dc-4b36-b426-931662a7cf57.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 717001609,
+                                    "dominant_saturated_color": "#9BBA1E",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/cd109571-448a-4be4-9ee7-37729feaf426.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/cd109571-448a-4be4-9ee7-37729feaf426.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNMyfV3dHL69ncvY217vpyC5O5j8xkTk9w4RfnuPn3IWJYYom/nwMP4kTEiJpKbjSPRWAYA4fARCSeYidcAAAAASUVORK5CYII=",
+                                    "scrim_color": "#20251F",
+                                    "poster": "https://a0.muscache.com/im/pictures/cd109571-448a-4be4-9ee7-37729feaf426.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/cd109571-448a-4be4-9ee7-37729feaf426.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/cd109571-448a-4be4-9ee7-37729feaf426.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 2,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Taste Varna with Varna Food Tours",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 717001595,
+                                        "dominant_saturated_color": "#8BBFF3",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/1ab6feae-2f26-4273-89d5-d07654aa1895.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/1ab6feae-2f26-4273-89d5-d07654aa1895.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWPUtNUyjGp+9+4bo5WTJY8gj7yUIGNyfKWDyfs7L2QY68tLlFU0/7CIMpZXNTIwMv/48R0AmNoRaHElkfkAAAAASUVORK5CYII=",
+                                        "scrim_color": "#1A2320",
+                                        "poster": "https://a0.muscache.com/im/pictures/1ab6feae-2f26-4273-89d5-d07654aa1895.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/1ab6feae-2f26-4273-89d5-d07654aa1895.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/1ab6feae-2f26-4273-89d5-d07654aa1895.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 717001602,
+                                        "dominant_saturated_color": "#EDED91",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/20752301-f0a9-4998-866a-ea509be2f19f.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/20752301-f0a9-4998-866a-ea509be2f19f.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AeLf2/YBvuTHxQHd2LoBBufPnLYBzseyA//0qa+nAbSzmPbv4tvj7wH08ff3+fny8fQnAiKQ8SjRDgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#2C251D",
+                                        "poster": "https://a0.muscache.com/im/pictures/20752301-f0a9-4998-866a-ea509be2f19f.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/20752301-f0a9-4998-866a-ea509be2f19f.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/20752301-f0a9-4998-866a-ea509be2f19f.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 717001605,
+                                        "dominant_saturated_color": "#A33C31",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/4a843024-f4cb-4df7-aa39-565da1441ba6.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/4a843024-f4cb-4df7-aa39-565da1441ba6.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWM0MxGQM9L1C/Fg1JYSt3W2YBZkZzQy1LJ1MJTRZGec1Fctr6ihpSLGOGXqZEdZrt/imgDgugpj30W3yQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#171611",
+                                        "poster": "https://a0.muscache.com/im/pictures/4a843024-f4cb-4df7-aa39-565da1441ba6.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/4a843024-f4cb-4df7-aa39-565da1441ba6.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/4a843024-f4cb-4df7-aa39-565da1441ba6.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Todor",
+                                "has_profile_pic": false,
+                                "id": 29329451,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "3 часа",
+                                "включая Трансфер, Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "3 006₽",
+                            "is_new_pdp": false,
+                            "price_string": "3 006₽ за человека"
+                        },
+                        {
+                            "action_kicker": "званый обед",
+                            "base_price": 2944.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Denmark",
+                            "display_text": "Healthy VEGAN lunch in Aarhus",
+                            "id": 882041,
+                            "is_social_good": false,
+                            "kicker_text": "званый обед · Орхус",
+                            "lat": 56.15608360210036,
+                            "lng": 10.20915020936653,
+                            "picture": {
+                                "id": 769293246,
+                                "dominant_saturated_color": "#A16C43",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AUw+NEwvMPkD/AFfSDj4BAQWGhIBi3RW/wr/FO3zAXVYPQL+/tfr+AFbTT3j6vERDw7K+BRsFGQZrQAAAABJRU5ErkJggg==",
+                                "saturated_a11y_dark_color": "#8F5F3B",
+                                "scrim_color": "#171611",
+                                "original_picture": "https://a0.muscache.com/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 769293246,
+                                    "dominant_saturated_color": "#A16C43",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AUw+NEwvMPkD/AFfSDj4BAQWGhIBi3RW/wr/FO3zAXVYPQL+/tfr+AFbTT3j6vERDw7K+BRsFGQZrQAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#171611",
+                                    "poster": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/a05741d3-5038-4528-a27d-57369a2d0a70.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 2,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Healthy VEGAN lunch in Aarhus",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 769293251,
+                                        "dominant_saturated_color": "#E9DEC9",
+                                        "caption": "Salad with grilled tempeh and spirulina ",
+                                        "picture": "https://a0.muscache.com/im/pictures/afff5477-8655-4aff-9ec3-0290011cf6af.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/afff5477-8655-4aff-9ec3-0290011cf6af.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Ab28wM/Brv8EBwGOhYXb2dImIh8Bcm9fCAgHC/XyAZaOcuHg5g4ABAGhiXDs6/EQFyVPBhZSAqduuQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#130F0E",
+                                        "poster": "https://a0.muscache.com/im/pictures/afff5477-8655-4aff-9ec3-0290011cf6af.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/afff5477-8655-4aff-9ec3-0290011cf6af.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/afff5477-8655-4aff-9ec3-0290011cf6af.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 769293253,
+                                        "dominant_saturated_color": "#E8F2C0",
+                                        "caption": "Homemade bread with wild garlic pesto",
+                                        "picture": "https://a0.muscache.com/im/pictures/370007ab-6d32-444b-b177-7342e53c6e54.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/370007ab-6d32-444b-b177-7342e53c6e54.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Abankq63sun36QGRiGK2uMUCDPYBqKB95fLmyL/KAZyZeOr47AcLDQF1b1vOzNAmNiXf0hseFRk9hQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1C1A0D",
+                                        "poster": "https://a0.muscache.com/im/pictures/370007ab-6d32-444b-b177-7342e53c6e54.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/370007ab-6d32-444b-b177-7342e53c6e54.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/370007ab-6d32-444b-b177-7342e53c6e54.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 769293254,
+                                        "dominant_saturated_color": "#F5EEDB",
+                                        "caption": "Another simple Charcuterie Vegan Board",
+                                        "picture": "https://a0.muscache.com/im/pictures/e04d8f7a-be30-4321-b71a-ad37544c2bee.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/e04d8f7a-be30-4321-b71a-ad37544c2bee.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWNszo3SNdA21DNkLA63ENJQMVU3Z2zLDnzx4zcfFw9jmIs59893mhYmjJmeJrouhlZmLgBf5A4wk1auJgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#19120A",
+                                        "poster": "https://a0.muscache.com/im/pictures/e04d8f7a-be30-4321-b71a-ad37544c2bee.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/e04d8f7a-be30-4321-b71a-ad37544c2bee.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/e04d8f7a-be30-4321-b71a-ad37544c2bee.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Denisa",
+                                "has_profile_pic": false,
+                                "id": 264487855,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа",
+                                "включая Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "2 944₽",
+                            "is_new_pdp": false,
+                            "price_string": "2 944₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация вин",
+                            "base_price": 1838.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Italia",
+                            "display_text": "Degustazioni a Palazzo",
+                            "id": 590934,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация вин · Сельская местность в Лацио",
+                            "lat": 42.644436775562845,
+                            "lng": 11.98532329218587,
+                            "picture": {
+                                "id": 747269533,
+                                "dominant_saturated_color": "#835B2D",
+                                "large_ro": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AVhAKdfe7QQCARgVDAF2WTgtMyj4+P3w7O0BWF5AGf4OFBwm2dbQAT02KT4kCw4RFL7R7wE0JR8JDBAOExTk4N4EDRcMI7dEKQAAAABJRU5ErkJggg==",
+                                "saturated_a11y_dark_color": "#835B2D",
+                                "scrim_color": "#1B1112",
+                                "original_picture": "https://a0.muscache.com/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 747269533,
+                                    "dominant_saturated_color": "#835B2D",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AVhAKdfe7QQCARgVDAF2WTgtMyj4+P3w7O0BWF5AGf4OFBwm2dbQAT02KT4kCw4RFL7R7wE0JR8JDBAOExTk4N4EDRcMI7dEKQAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#1B1112",
+                                    "poster": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/43aa5c59-279a-495a-afcc-a918620135b4.jpg?aki_policy=x_large",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 5,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Degustazioni a Palazzo",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 675105185,
+                                        "dominant_saturated_color": "#EFE9DF",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/736fe209-b627-4af5-a626-bd6e88545d60.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/736fe209-b627-4af5-a626-bd6e88545d60.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAAACDbGyAAAAW0lEQVQIHQFQAK//AdPHtIKFlu7k3/r/AQEFAwHSxraDf4sE+PDo8fYIDw0B0Me7rLLE0ruq/P8ABhIUAamaiqy4yyML9wgJB/b9AQGumIKQn7FvZFnq7/P3+fvYrCvpeexDagAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#070506",
+                                        "poster": "https://a0.muscache.com/im/pictures/736fe209-b627-4af5-a626-bd6e88545d60.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/736fe209-b627-4af5-a626-bd6e88545d60.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/736fe209-b627-4af5-a626-bd6e88545d60.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 675105187,
+                                        "dominant_saturated_color": "#080300",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/a0d75907-f93f-4af9-acd3-33342918d2de.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/a0d75907-f93f-4af9-acd3-33342918d2de.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAIAAAAFCAIAAADg0arLAAAAK0lEQVQIHWMMNVWUU9NinFUVZmxpz+ioISEtJcZoqCAqKi7OqK0o+/v3TwB1pQgBXVNgFAAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#080300",
+                                        "poster": "https://a0.muscache.com/im/pictures/a0d75907-f93f-4af9-acd3-33342918d2de.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/a0d75907-f93f-4af9-acd3-33342918d2de.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/a0d75907-f93f-4af9-acd3-33342918d2de.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 684956044,
+                                        "dominant_saturated_color": "#D7B997",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/d52450d0-ef63-4f78-9355-f68698b5c76f.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/d52450d0-ef63-4f78-9355-f68698b5c76f.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AbSTatTU4BYTDNXd7gGKcWXu6ub68O/x6uwBMyIpGBYO4uvvHhsJAUczMuj2/Pfz8SAeDgE5Jyz+CAgjHBPJydhilh+Ni0dBkAAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#140917",
+                                        "poster": "https://a0.muscache.com/im/pictures/d52450d0-ef63-4f78-9355-f68698b5c76f.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/d52450d0-ef63-4f78-9355-f68698b5c76f.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/d52450d0-ef63-4f78-9355-f68698b5c76f.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Gianni",
+                                "has_profile_pic": false,
+                                "id": 239294061,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа",
+                                "включая Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Языки: Английский, Итальянский",
+                            "base_price_string": "1 838₽",
+                            "is_new_pdp": false,
+                            "price_string": "1 838₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация чая",
+                            "base_price": 3500.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Russia",
+                            "display_text": "Парфюм, золото и матча над Транссибом",
+                            "id": 477748,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация чая · Тюмень",
+                            "lat": 57.136868390280114,
+                            "lng": 65.5624336975918,
+                            "picture": {
+                                "id": 638057074,
+                                "dominant_saturated_color": "#DEC69C",
+                                "large_ro": "https://a0.muscache.com/im/pictures/053ce58b-567a-4248-9d4f-5ee948dee0c5.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/053ce58b-567a-4248-9d4f-5ee948dee0c5.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AT5LVSssMxEUGcGzodLMxQGSgmdDRlAFCxWVkoqutLgBd2UyCxEl/AAMq7C19fX4orQTr7TjTIEAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#946F30",
+                                "scrim_color": "#17140B",
+                                "original_picture": "https://a0.muscache.com/pictures/053ce58b-567a-4248-9d4f-5ee948dee0c5.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/053ce58b-567a-4248-9d4f-5ee948dee0c5.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 638057060,
+                                    "dominant_saturated_color": "#D1B68D",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/7b5a1162-7a8f-42ec-973c-79f90b50ad38.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/7b5a1162-7a8f-42ec-973c-79f90b50ad38.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AW99j/Tz77isnQGkssb2+fyojWcB7OXe0czHmZmWAfXn0GJfYOHt9gFuali7vcTz8/MwliCsKd4mTwAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#16130C",
+                                    "poster": "https://a0.muscache.com/im/pictures/7b5a1162-7a8f-42ec-973c-79f90b50ad38.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/7b5a1162-7a8f-42ec-973c-79f90b50ad38.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/7b5a1162-7a8f-42ec-973c-79f90b50ad38.jpg?aki_policy=x_large",
+                                    "provider": "stock_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 9,
+                            "product_type": 1,
+                            "review_count": 4,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Парфюм, золото и матча над Транссибом",
+                            "availabilities": [],
+                            "primary_category_name": "Lifestyle",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 670441973,
+                                        "dominant_saturated_color": "#CCA56A",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/f11296fb-91ee-4ee2-8e87-7ec6bd1f7c75.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/f11296fb-91ee-4ee2-8e87-7ec6bd1f7c75.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AQcGDwECBAACAgD+/////AEgJS8UDAvy9PT39/P19/gBTzon9PgDRTYgytjm5PUFAT0xJEg1G9rd6h4UArfN7TwVHHEachtmAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#0B0B13",
+                                        "poster": "https://a0.muscache.com/im/pictures/f11296fb-91ee-4ee2-8e87-7ec6bd1f7c75.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/f11296fb-91ee-4ee2-8e87-7ec6bd1f7c75.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/f11296fb-91ee-4ee2-8e87-7ec6bd1f7c75.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Тanya",
+                                "has_profile_pic": false,
+                                "id": 67745586,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа",
+                                "включая Еда и Оборудование"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Русский",
+                            "base_price_string": "3 500₽",
+                            "is_new_pdp": false,
+                            "price_string": "3 500₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация еды",
+                            "base_price": 2921.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "United States",
+                            "display_text": "Walking food tours of downtown Holland!",
+                            "id": 906323,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация еды · Central Shore Lake Michigan",
+                            "lat": 42.790480015257735,
+                            "lng": -86.09170456740299,
+                            "picture": {
+                                "id": 778211442,
+                                "dominant_saturated_color": "#9FC2E5",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOckhmk7BGtbePCOL8i8R+PECOfIOPsRauu7F0rpqrOmJZVJMIvdf/+Oca02DAne/MffxkAohoR0q6c2OUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#3374B5",
+                                "scrim_color": "#232429",
+                                "original_picture": "https://a0.muscache.com/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 778211442,
+                                    "dominant_saturated_color": "#9FC2E5",
+                                    "caption": "Sharing a story at the outdoor fireplace",
+                                    "picture": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOckhmk7BGtbePCOL8i8R+PECOfIOPsRauu7F0rpqrOmJZVJMIvdf/+Oca02DAne/MffxkAohoR0q6c2OUAAAAASUVORK5CYII=",
+                                    "scrim_color": "#232429",
+                                    "poster": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/a1475d90-bea3-4499-a8f2-cfc03fc466cc.jpg?aki_policy=x_large",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 1,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Walking food tours of downtown Holland!",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 778211423,
+                                        "dominant_saturated_color": "#854B25",
+                                        "caption": "Tasty goodness!",
+                                        "picture": "https://a0.muscache.com/im/pictures/e347dbd0-5986-4311-9431-75b67498e28d.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/e347dbd0-5986-4311-9431-75b67498e28d.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ASMkKjUxKx8aFs/V297f2wE0MzZ0YkDjzMYsSmGRl6ABFxcYLCgjKiUiFhcZ8vDtniMRdhstKD8AAAAASUVORK5CYII=",
+                                        "scrim_color": "#0F0F0F",
+                                        "poster": "https://a0.muscache.com/im/pictures/e347dbd0-5986-4311-9431-75b67498e28d.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/e347dbd0-5986-4311-9431-75b67498e28d.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/e347dbd0-5986-4311-9431-75b67498e28d.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 778211427,
+                                        "dominant_saturated_color": "#F4F9FC",
+                                        "caption": "This is where it happened...",
+                                        "picture": "https://a0.muscache.com/im/pictures/eb0520f7-d212-4b28-a552-3fa8c9f9c34d.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/eb0520f7-d212-4b28-a552-3fa8c9f9c34d.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbKYja/IvgoGBVZVY/0FDQGgioOw0MQaERMyJzPr8vgBqKmr6enqFREN9vv+9fsEBi8XoJuLTosAAAAASUVORK5CYII=",
+                                        "scrim_color": "#272B2A",
+                                        "poster": "https://a0.muscache.com/im/pictures/eb0520f7-d212-4b28-a552-3fa8c9f9c34d.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/eb0520f7-d212-4b28-a552-3fa8c9f9c34d.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/eb0520f7-d212-4b28-a552-3fa8c9f9c34d.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 778211429,
+                                        "dominant_saturated_color": "#E6F0FA",
+                                        "caption": "Beautiful downtown Holland, Michigan!",
+                                        "picture": "https://a0.muscache.com/im/pictures/03969d9c-90e4-42c3-98a5-821bde6aa679.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/03969d9c-90e4-42c3-98a5-821bde6aa679.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Advm7+r2AuHOuwGlqasICAq4q5sBc3NyBAH/x7+0AT02MCkgGNXc4QGHdl8hGxX29PV85xfLw73eKgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#18130F",
+                                        "poster": "https://a0.muscache.com/im/pictures/03969d9c-90e4-42c3-98a5-821bde6aa679.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/03969d9c-90e4-42c3-98a5-821bde6aa679.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/03969d9c-90e4-42c3-98a5-821bde6aa679.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Linda",
+                                "has_profile_pic": false,
+                                "id": 266745336,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "3 часа",
+                                "включая Еда"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "2 921₽",
+                            "is_new_pdp": false,
+                            "price_string": "2 921₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация чая",
+                            "base_price": 1886.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "中国",
+                            "display_text": "“版纳遇茶”品茶会——每次品两款十年以上普洱茶年份好茶",
+                            "id": 712621,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация чая · Юнь Цзинхун",
+                            "lat": 22.000773353249624,
+                            "lng": 100.77103842320957,
+                            "picture": {
+                                "id": 709944746,
+                                "dominant_saturated_color": "#2D597F",
+                                "large_ro": "https://a0.muscache.com/im/pictures/5b954d0d-8bcd-4b5b-b528-7e396fd13bf9.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/5b954d0d-8bcd-4b5b-b528-7e396fd13bf9.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYWEhL63rjc2LsnEymptbwGMj5Pm2dAvJRyfpKsSCggBMS4r/fbxGh0d4OfxAQ8YIv4VTZnfxgkAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#2D597F",
+                                "scrim_color": "#0E0E0C",
+                                "original_picture": "https://a0.muscache.com/pictures/5b954d0d-8bcd-4b5b-b528-7e396fd13bf9.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/5b954d0d-8bcd-4b5b-b528-7e396fd13bf9.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 709944336,
+                                    "dominant_saturated_color": "#2C5980",
+                                    "caption": "讲解有关茶的历史文化",
+                                    "picture": "https://a0.muscache.com/im/pictures/ccb8d317-ec53-4df6-a965-4c1a158153ff.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/ccb8d317-ec53-4df6-a965-4c1a158153ff.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUQ/O+Ld1xkTDPn5/G1yawGkpqnVzcFFQzuQio9HQUkBdXd739LKKCAaw8bLA/75AS4rJ/328hodG9vm9QcXIejpHpovlCasAAAAAElFTkSuQmCC",
+                                    "scrim_color": "#0F0E0A",
+                                    "poster": "https://a0.muscache.com/im/pictures/ccb8d317-ec53-4df6-a965-4c1a158153ff.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/ccb8d317-ec53-4df6-a965-4c1a158153ff.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/ccb8d317-ec53-4df6-a965-4c1a158153ff.jpg?aki_policy=x_large",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 1,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "“版纳遇茶”品茶会——每次品两款十年以上普洱茶年份好茶",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 709944337,
+                                        "dominant_saturated_color": "#B61914",
+                                        "caption": "汤色美不胜收",
+                                        "picture": "https://a0.muscache.com/im/pictures/9e2b49a8-fde8-428f-99c7-2dba227d1387.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/9e2b49a8-fde8-428f-99c7-2dba227d1387.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWc9JczpBxUcFAFwTj3d2uQySUoBUUQ568vTSk5BASomJDEkHhHe2wEdGBP4+vr39vi9NRQl+y8VGQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#0A0607",
+                                        "poster": "https://a0.muscache.com/im/pictures/9e2b49a8-fde8-428f-99c7-2dba227d1387.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/9e2b49a8-fde8-428f-99c7-2dba227d1387.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/9e2b49a8-fde8-428f-99c7-2dba227d1387.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 709944340,
+                                        "dominant_saturated_color": "#7A6438",
+                                        "caption": "版纳民族特色",
+                                        "picture": "https://a0.muscache.com/im/pictures/57bdc029-a083-4704-adb8-e5483f0313da.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/57bdc029-a083-4704-adb8-e5483f0313da.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWMsyYu39cwQEBRkTAh3l+QR41MzZPS0MWRh+v/3Pyujub767+/fOTg5GKPDgh7fviEiLgEAT1UPLFSTdNsAAAAASUVORK5CYII=",
+                                        "scrim_color": "#0F0E0C",
+                                        "poster": "https://a0.muscache.com/im/pictures/57bdc029-a083-4704-adb8-e5483f0313da.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/57bdc029-a083-4704-adb8-e5483f0313da.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/57bdc029-a083-4704-adb8-e5483f0313da.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 709944344,
+                                        "dominant_saturated_color": "#7B3E1B",
+                                        "caption": "品鉴茶品展示",
+                                        "picture": "https://a0.muscache.com/im/pictures/06d94c6b-cfb4-4cf5-8570-a54c9cfd5e1a.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/06d94c6b-cfb4-4cf5-8570-a54c9cfd5e1a.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AV5dSez1Cw0KDBkWFfrm1gFbNh79CAkWDwcIEiHv6egBbDwXBgH9Hygs/xQl/PX4AY1qSvbv8N7o6/AAETMBCOJhGVHXuP/sAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#17120E",
+                                        "poster": "https://a0.muscache.com/im/pictures/06d94c6b-cfb4-4cf5-8570-a54c9cfd5e1a.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/06d94c6b-cfb4-4cf5-8570-a54c9cfd5e1a.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/06d94c6b-cfb4-4cf5-8570-a54c9cfd5e1a.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "政杰",
+                                "has_profile_pic": false,
+                                "id": 249969873,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "12 часов",
+                                "включая Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Китайский (упрощенный)",
+                            "base_price_string": "1 886₽",
+                            "is_new_pdp": false,
+                            "price_string": "1 886₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация вин",
+                            "base_price": 974.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "United States",
+                            "display_text": "Take 'Flight' #GilligWinery",
+                            "id": 432217,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация вин · Мэнсфилд",
+                            "lat": 41.03664300714769,
+                            "lng": -83.69023571956323,
+                            "picture": {
+                                "id": 680031297,
+                                "dominant_saturated_color": "#C4B06E",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AamVdSIsH/7/FwcOE9nMywGwjnXw+/Hl3/UqPTbVv8oBpqGg6OjkBfn+vsrVBgQDWmEaFJc3Ye4AAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#7D6C33",
+                                "scrim_color": "#171B26",
+                                "original_picture": "https://a0.muscache.com/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 680031101,
+                                    "dominant_saturated_color": "#4264A8",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AdbRuQUJIPf28AGchG1AU13PxbQBelZMPlJD3NTdAX1oZQgOCtbc5wGuoZ6ZpLMTCg1V0Ba8VBg17wAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#1A1A22",
+                                    "poster": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=x_large",
+                                    "provider": "stock_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 1,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Take 'Flight' #GilligWinery",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 5.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 680031481,
+                                        "dominant_saturated_color": "#6C3A30",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AUo2M/z6/vb5+vDy9AGAW1D8Awr9+vnb3t4BaE1JChge/fv93ublAZdXQOPv9Nz0Aer5/wGSVkQSEAoGBgHc3+gAQiSy3bSlGQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#231921",
+                                        "poster": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 680031482,
+                                        "dominant_saturated_color": "#E9DDCD",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/ASEhHP38/Pj4+PX1+AEaHBf09PYAAAD+/f0BlY+E9fT1GRYTAAH+ATAvKQD//w4NDAMCAQFXQy4LCAUAAAD09/skcBuGzMmisQAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#040402",
+                                        "poster": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Mary",
+                                "has_profile_pic": false,
+                                "id": 189729071,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа",
+                                "включая Трансфер и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "974₽",
+                            "is_new_pdp": false,
+                            "price_string": "974₽ за человека"
+                        },
+                        {
+                            "action_kicker": "пешая экскурсия",
+                            "base_price": 1011.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "Czech Republic",
+                            "display_text": "Krumlov local Mermaid Tour - unique&fun",
+                            "id": 933176,
+                            "is_social_good": false,
+                            "kicker_text": "пешая экскурсия · Ческе-Будеёвице",
+                            "lat": 48.8143352905936,
+                            "lng": 14.317533902992261,
+                            "picture": {
+                                "id": 790836412,
+                                "dominant_saturated_color": "#8DB7EF",
+                                "large_ro": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYGGkwEgSPn/CPf09/v3+QF7YVn2+gQYRmD4/gTp5t4BQkE5DQEF+wsRIiAQLigkAUY9OhcWEjI+GzMuPhkWIL63F4p0RFXJAAAAAElFTkSuQmCC",
+                                "saturated_a11y_dark_color": "#1E70DC",
+                                "scrim_color": "#282924",
+                                "original_picture": "https://a0.muscache.com/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 790836412,
+                                    "dominant_saturated_color": "#8DB7EF",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYGGkwEgSPn/CPf09/v3+QF7YVn2+gQYRmD4/gTp5t4BQkE5DQEF+wsRIiAQLigkAUY9OhcWEjI+GzMuPhkWIL63F4p0RFXJAAAAAElFTkSuQmCC",
+                                    "scrim_color": "#282924",
+                                    "poster": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/87e9c7e6-475b-4979-a7f3-43fcd4166699.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 10,
+                            "product_type": 1,
+                            "review_count": 0,
+                            "star_rating": 0.0,
+                            "tier_id": 0,
+                            "title": "Krumlov local Mermaid Tour - unique&fun",
+                            "availabilities": [],
+                            "primary_category_name": "History",
+                            "display_rating": 0.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 796315910,
+                                        "dominant_saturated_color": "#5D9BE1",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/5030956e-3b59-4c41-9b3f-bf919cb4ae06.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/5030956e-3b59-4c41-9b3f-bf919cb4ae06.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AVeR2AD/AADz5QFhoOkH9d8gAeoBjZiwCfPh7ujXAV9dUz0xLA8SGAFpa3cpIg8NDxA90BN/b3sbhgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#252324",
+                                        "poster": "https://a0.muscache.com/im/pictures/5030956e-3b59-4c41-9b3f-bf919cb4ae06.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/5030956e-3b59-4c41-9b3f-bf919cb4ae06.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/5030956e-3b59-4c41-9b3f-bf919cb4ae06.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 796316128,
+                                        "dominant_saturated_color": "#6587C1",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/b393c0c6-5b86-46ac-9a88-fc61ed895521.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/b393c0c6-5b86-46ac-9a88-fc61ed895521.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AV1ylxQeLgMCAPT3/ks2GQEyNzuYlJf8/P3p7/D5+P4BQEQ1T0tT6ufm9vb1ExohAUhPPCQkKff5+/f4+R0ZG7nhH1rl40VeAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#25281D",
+                                        "poster": "https://a0.muscache.com/im/pictures/b393c0c6-5b86-46ac-9a88-fc61ed895521.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/b393c0c6-5b86-46ac-9a88-fc61ed895521.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/b393c0c6-5b86-46ac-9a88-fc61ed895521.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 796316192,
+                                        "dominant_saturated_color": "#FCFEFA",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/3babbbca-4414-4e7c-9d72-f30c7decea47.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/3babbbca-4414-4e7c-9d72-f30c7decea47.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWPsnrXSzd5YVlxYkJ+HgYGBUUZBkY2dJTUlzsfFjYODgzE+VPLrD4YPX9lkxQXEBDgZ1VS4+Pj///3PyMfLJC7MDAC+yA5QG6AT8gAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1A1D12",
+                                        "poster": "https://a0.muscache.com/im/pictures/3babbbca-4414-4e7c-9d72-f30c7decea47.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/3babbbca-4414-4e7c-9d72-f30c7decea47.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/3babbbca-4414-4e7c-9d72-f30c7decea47.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Maria Magdalena",
+                                "has_profile_pic": false,
+                                "id": 74748258,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "3 часа",
+                                "включая Напитки и Оборудование"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "1 011₽",
+                            "is_new_pdp": false,
+                            "price_string": "1 011₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация сыров",
+                            "base_price": 2205.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "France",
+                            "display_text": "Всё о сыре в Оверни",
+                            "id": 582618,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация сыров · Клермон-Ферран",
+                            "lat": 45.67733415349575,
+                            "lng": 3.6313230986498444,
+                            "picture": {
+                                "id": 671804255,
+                                "dominant_saturated_color": "#E2B346",
+                                "large_ro": "https://a0.muscache.com/im/pictures/49a1bb0c-9886-4e6e-a7d2-6745891a94f4.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/49a1bb0c-9886-4e6e-a7d2-6745891a94f4.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUdEOusfPhwB7lwgA/bo7gGxr68nJCL/3Kbt6eb5FUABxcG+t5uG6Ovv9wAH/v/+JB4aRcgkTQQAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#906B16",
+                                "scrim_color": "#1F1812",
+                                "original_picture": "https://a0.muscache.com/pictures/49a1bb0c-9886-4e6e-a7d2-6745891a94f4.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/49a1bb0c-9886-4e6e-a7d2-6745891a94f4.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 671804068,
+                                    "dominant_saturated_color": "#E5B441",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/68a79a38-512c-4fbf-92ec-bb99d9f557e2.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/68a79a38-512c-4fbf-92ec-bb99d9f557e2.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AT5ISXA+JePR1wHDr3UN9OTxAzsByp528fP69wYOAWhIN/8IDP8AAAFAKgbp8gH1+/8+3Rcp4cEU8AAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#1C130A",
+                                    "poster": "https://a0.muscache.com/im/pictures/68a79a38-512c-4fbf-92ec-bb99d9f557e2.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/68a79a38-512c-4fbf-92ec-bb99d9f557e2.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/68a79a38-512c-4fbf-92ec-bb99d9f557e2.jpg?aki_policy=x_large",
+                                    "provider": "stock_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 6,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Всё о сыре в Оверни",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 4.83,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 766452552,
+                                        "dominant_saturated_color": "#C3661F",
+                                        "caption": "Lait cru/raw milk",
+                                        "picture": "https://a0.muscache.com/im/pictures/785c89e3-b9fc-4ed5-842c-3ca4ac250949.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/785c89e3-b9fc-4ed5-842c-3ca4ac250949.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdjLveXk3vP2+/f15fn8CAHVxrDV2+b8AAPg2c319PwBWy4ZQ11cBhMdGB4h+O/pAW03FSpfdAoFAjY5Pp+fmxceIVHk0S7EAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#20130B",
+                                        "poster": "https://a0.muscache.com/im/pictures/785c89e3-b9fc-4ed5-842c-3ca4ac250949.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/785c89e3-b9fc-4ed5-842c-3ca4ac250949.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/785c89e3-b9fc-4ed5-842c-3ca4ac250949.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 766452557,
+                                        "dominant_saturated_color": "#6083C0",
+                                        "caption": "Comptesse de Vichy",
+                                        "picture": "https://a0.muscache.com/im/pictures/32c3020a-ee9c-4e52-a630-8a27a0316b43.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/32c3020a-ee9c-4e52-a630-8a27a0316b43.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AY6Cduzq6BIRDdjd5bm2vQFvY2E4TFwCBgcG+u/Hxs0BWEU5S09ELjg47evu5+oAAXdscPz//yQnKPz7/AwRF9koHnrrSaLhAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#1D120E",
+                                        "poster": "https://a0.muscache.com/im/pictures/32c3020a-ee9c-4e52-a630-8a27a0316b43.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/32c3020a-ee9c-4e52-a630-8a27a0316b43.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/32c3020a-ee9c-4e52-a630-8a27a0316b43.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 766452558,
+                                        "dominant_saturated_color": "#B06C4A",
+                                        "caption": "A small tasting selection",
+                                        "picture": "https://a0.muscache.com/im/pictures/52c4095e-2a1e-408d-a08e-2ea7bd7628b3.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/52c4095e-2a1e-408d-a08e-2ea7bd7628b3.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWhTVRMVECYpI+/148nF3wFZS0ciC/klPkLy9/jHwssBUz4+4fXnSkM9DwcCzcbTAUY3OiAgCBIbDf3i8dTc6mgrHFW7ffZKAAAAAElFTkSuQmCC",
+                                        "scrim_color": "#1A1615",
+                                        "poster": "https://a0.muscache.com/im/pictures/52c4095e-2a1e-408d-a08e-2ea7bd7628b3.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/52c4095e-2a1e-408d-a08e-2ea7bd7628b3.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/52c4095e-2a1e-408d-a08e-2ea7bd7628b3.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Nigel",
+                                "has_profile_pic": false,
+                                "id": 151066135,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2.5 часа",
+                                "включая Еда и Напитки"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "2 205₽",
+                            "is_new_pdp": false,
+                            "price_string": "2 205₽ за человека"
+                        },
+                        {
+                            "action_kicker": "дегустация сыров",
+                            "base_price": 294.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "España",
+                            "display_text": "Секреты сыроваров в Льебане",
+                            "id": 264945,
+                            "is_social_good": false,
+                            "kicker_text": "дегустация сыров · Льянеса",
+                            "lat": 43.15279978434512,
+                            "lng": -4.682643690145346,
+                            "picture": {
+                                "id": 772304566,
+                                "dominant_saturated_color": "#AB6D5D",
+                                "large_ro": "https://a0.muscache.com/im/pictures/14e08147-48c1-4f7d-9fdd-8f0fdd1a14b9.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/14e08147-48c1-4f7d-9fdd-8f0fdd1a14b9.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcjFxfj6+QQDA+3k5PwECQHLycn+//36+vvNztvn4N8Bsq6tGhkbu7u439vdBgQI8m0dndRQFMEAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#9D6051",
+                                "scrim_color": "#181617",
+                                "original_picture": "https://a0.muscache.com/pictures/14e08147-48c1-4f7d-9fdd-8f0fdd1a14b9.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/14e08147-48c1-4f7d-9fdd-8f0fdd1a14b9.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 772304464,
+                                    "dominant_saturated_color": "#AB6B5B",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/63f3ebc8-4cfb-4aed-901e-13a5d8a07ca7.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/63f3ebc8-4cfb-4aed-901e-13a5d8a07ca7.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AcXDwvn49/r5+wHNzMvIr6/yDx8Bu7u73uDts7C6AcO/vMDBxuLLzgFCPToXFRggGRlWSB0YX4fcbAAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#161415",
+                                    "poster": "https://a0.muscache.com/im/pictures/63f3ebc8-4cfb-4aed-901e-13a5d8a07ca7.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/63f3ebc8-4cfb-4aed-901e-13a5d8a07ca7.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/63f3ebc8-4cfb-4aed-901e-13a5d8a07ca7.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 7,
+                            "product_type": 1,
+                            "review_count": 15,
+                            "star_rating": 5.0,
+                            "tier_id": 0,
+                            "title": "Секреты сыроваров в Льебане",
+                            "availabilities": [],
+                            "primary_category_name": "Food & Drink",
+                            "display_rating": 4.93,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 669449442,
+                                        "dominant_saturated_color": "#EDF5F7",
+                                        "caption": "",
+                                        "picture": "https://a0.muscache.com/im/pictures/194034ac-c683-4427-9c8d-7e0bc2d59556.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/194034ac-c683-4427-9c8d-7e0bc2d59556.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWOsaW5wc3N7+fYLY0JKlLCwqIC4PKNPoKestNSLt58ZrVwc+Hi41RUlGY0sTZydnPWURQGaFg3R3EIoYgAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#0C1510",
+                                        "poster": "https://a0.muscache.com/im/pictures/194034ac-c683-4427-9c8d-7e0bc2d59556.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/194034ac-c683-4427-9c8d-7e0bc2d59556.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/194034ac-c683-4427-9c8d-7e0bc2d59556.jpg?aki_policy=x_large",
+                                        "provider": "host_provided_photo",
+                                        "sort_order": 2
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Verónica",
+                                "has_profile_pic": false,
+                                "id": 192081651,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "1 час",
+                                "включая Еда"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Испанский",
+                            "base_price_string": "294₽",
+                            "is_new_pdp": false,
+                            "price_string": "294₽ за человека"
+                        },
+                        {
+                            "action_kicker": "прогулка на природе",
+                            "base_price": 1558.0,
+                            "currency": {
+                                "currency": "RUB",
+                                "currency_symbol_comes_after_currency": true
+                            },
+                            "country": "United States",
+                            "display_text": "Siskwit Falls River Walk and Picnic",
+                            "id": 722223,
+                            "is_social_good": false,
+                            "kicker_text": "прогулка на природе · Дулут",
+                            "lat": 46.855576261902364,
+                            "lng": -91.09139430249405,
+                            "picture": {
+                                "id": 791537723,
+                                "dominant_saturated_color": "#BB986B",
+                                "large_ro": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWPkF+LV0Zf9+f03Lx/XvTtPGbU0lH0t5Ti5OD9//f7q7UfGkIAgbWUxRnZWUyNtYWFpRkevaB0dDV6O/9ysf9lZGAGrLhMDtJnZ5AAAAABJRU5ErkJggg==",
+                                "saturated_a11y_dark_color": "#82643C",
+                                "scrim_color": "#171812",
+                                "original_picture": "https://a0.muscache.com/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=x_large"
+                            },
+                            "poster_pictures": [
+                                {
+                                    "id": 791537723,
+                                    "dominant_saturated_color": "#BB986B",
+                                    "caption": "",
+                                    "picture": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=large",
+                                    "original_picture": "https://a0.muscache.com/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWPkF+LV0Zf9+f03Lx/XvTtPGbU0lH0t5Ti5OD9//f7q7UfGkIAgbWUxRnZWUyNtYWFpRkevaB0dDV6O/9ysf9lZGAGrLhMDtJnZ5AAAAABJRU5ErkJggg==",
+                                    "scrim_color": "#171812",
+                                    "poster": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=poster",
+                                    "xl_poster": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=xl_poster",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/c1f6d942-ee6b-42a6-90cd-45b628c15590.jpg?aki_policy=x_large",
+                                    "provider": "host_provided_photo",
+                                    "sort_order": 1
+                                }
+                            ],
+                            "primary_category": 6,
+                            "product_type": 1,
+                            "review_count": 0,
+                            "star_rating": 0.0,
+                            "tier_id": 0,
+                            "title": "Siskwit Falls River Walk and Picnic",
+                            "availabilities": [],
+                            "primary_category_name": "Nature",
+                            "display_rating": 0.0,
+                            "carousel_collection_multimedia": [
+                                {
+                                    "picture": {
+                                        "id": 780057087,
+                                        "dominant_saturated_color": "#EFDEB5",
+                                        "caption": "Oliver, our adorable tour guide.",
+                                        "picture": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AScmIBAUFT48HTgsKgFiZG0UDQM4JREPCAABZmt68uPa+/fn/Qf/AVhYYv303+719AIECgFcWnv47cr9//Hs9gKdFRv9sW5O4gAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#181A19",
+                                        "poster": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=x_large",
+                                        "sort_order": 1
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 781190549,
+                                        "dominant_saturated_color": "#C68B76",
+                                        "caption": "Serenity ",
+                                        "picture": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNcvn4mw89/PBJCjDXF6TJysvxyEoyFucFycioMbL8ZFWTFWRgZGRkYGHc3Zv3+84+BkRkAZ+INoMS0SkMAAAAASUVORK5CYII=",
+                                        "scrim_color": "#12110C",
+                                        "poster": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=x_large",
+                                        "sort_order": 2
+                                    }
+                                },
+                                {
+                                    "picture": {
+                                        "id": 786132663,
+                                        "dominant_saturated_color": "#CBD575",
+                                        "caption": "Water is rarely up to mid -calf.",
+                                        "picture": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=large",
+                                        "original_picture": "https://a0.muscache.com/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg",
+                                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAIAAAAfCIEKAAAAK0lEQVQIHQEgAN//AS0xKDc8ORwgAdPhxuTb8QGqt8vWzMTSy8L//fbl49rsNRMhb+IK6wAAAABJRU5ErkJggg==",
+                                        "scrim_color": "#1F1F15",
+                                        "poster": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=poster",
+                                        "xl_poster": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=xl_poster",
+                                        "xl_picture": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=x_large",
+                                        "sort_order": 3
+                                    }
+                                }
+                            ],
+                            "display_mode": "BROWSE",
+                            "host": {
+                                "first_name": "Mark And Kelly",
+                                "has_profile_pic": false,
+                                "id": 10681204,
+                                "is_superhost": false
+                            },
+                            "spotlight_type": "DESCRIPTION",
+                            "summaries": [
+                                "2 часа",
+                                "включая Трансфер, Еда и Оборудование"
+                            ],
+                            "kicker_text_color": "#767676",
+                            "star_rating_color": "#008489",
+                            "offered_languages_text": "Язык: Английский",
+                            "base_price_string": "1 558₽",
+                            "is_new_pdp": false,
+                            "price_string": "1 558₽ за человека"
+                        }
+                    ],
+                    "review_items": [],
+                    "breadcrumbs": [],
+                    "section_metadata": {
+                        "is_mimicking_paginated": false,
+                        "should_hide_items_from_map": false
+                    },
+                    "nearby_locations": []
+                }
+            ],
+            "experiments_metadata": [],
+            "experience_tab_metadata": {
+                "has_map": false,
+                "count": 12279
+            }
+        }
+    ],
+    "metadata": {
+        "current_tab_id": "experience_tab",
+        "request_uuid": "9353d2e2-3765-f1e5-839d-2635f7a7e899",
+        "search_id": "9353d2e2-3765-f1e5-839d-2635f7a7e899",
+        "query_text": "Еда и напитки",
+        "current_refinement_paths": [
+            "/experiences/KG/Tag:53"
+        ],
+        "federated_search_id": "b2ac3e18-5fb6-4804-90fa-9f81cf8a35f7",
+        "federated_search_session_id": "bedc8c84-998d-485b-9f53-79edace0c903",
+        "suggestions": [
+            {
+                "title": "Все",
+                "type": "for_you",
+                "search_params": {
+                    "params": [],
+                    "refinement_paths": [
+                        "/for_you"
+                    ],
+                    "refinement_path": "/for_you",
+                    "tab_id": "all_tab",
+                    "reset_filters": false
+                },
+                "is_selected": false,
+                "fully_qualified_title": "Все"
+            },
+            {
+                "title": "Жилье и бутик-отели",
+                "type": "homes",
+                "search_params": {
+                    "params": [],
+                    "refinement_paths": [
+                        "/homes"
+                    ],
+                    "refinement_path": "/homes",
+                    "tab_id": "home_tab",
+                    "reset_filters": false
+                },
+                "is_selected": false,
+                "fully_qualified_title": "Жилье и бутик-отели"
+            },
+            {
+                "title": "Впечатления",
+                "type": "experiences",
+                "search_params": {
+                    "params": [],
+                    "refinement_paths": [
+                        "/experiences"
+                    ],
+                    "refinement_path": "/experiences",
+                    "tab_id": "experience_tab",
+                    "reset_filters": false
+                },
+                "is_selected": true,
+                "fully_qualified_title": "Впечатления"
+            },
+            {
+                "title": "Рестораны",
+                "type": "restaurants",
+                "search_params": {
+                    "params": [],
+                    "refinement_paths": [
+                        "/restaurants"
+                    ],
+                    "refinement_path": "/restaurants",
+                    "tab_id": "restaurant_tab",
+                    "reset_filters": false
+                },
+                "is_selected": false,
+                "fully_qualified_title": "Рестораны"
+            }
+        ],
+        "has_map": false,
+        "show_as_hint": false,
+        "marquee_mode": "DEFAULT",
+        "satori_version": "1.0.3",
+        "gtm_experiments": [],
+        "saved_search_responses": [],
+        "map_toggle": false,
+        "price_display_strategy": "CONTROL",
+        "satori_config": {
+            "market": "Moscow",
+            "state_code": "",
+            "country_code": "RU",
+            "region_id": -1,
+            "version": "1.1.1"
+        },
+        "page_metadata": {
+            "page_title": "Впечатления Airbnb",
+            "render_type": "EXPLORE",
+            "location_query": false
+        },
+        "refinement_display_text": "Еда и напитки",
+        "recent_searches_responses": {
+            "responses": []
+        },
+        "parent_administrative_area": {}
+    }
+}

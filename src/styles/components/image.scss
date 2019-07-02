@@ -1,0 +1,12 @@
+.image {
+  padding-top: 133%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+
+  &__wrapper {
+    border-radius: 3px;
+    display: block;
+    overflow: hidden;
+  }
+}
