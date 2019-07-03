@@ -14,11 +14,9 @@ export default {
     name: 'Card',
     methods: {
         handleMouseEnter() {
-            console.log(true)
             this.hover = true
         },
         handleMouseLeave() {
-            console.log(false)
             this.hover = false
         }
     },

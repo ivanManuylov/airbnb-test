@@ -23,7 +23,6 @@ export default {
         async fetch() {
             axios('/api/info.json').then(response => {
                 this.list = response.data.explore_tabs[0].sections[0].trip_templates;
-                console.log(this.list[0]);
             })
         },
     },
