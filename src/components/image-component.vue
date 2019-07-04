@@ -19,5 +19,5 @@
       </transition>
   </div>
 </template>
-<script src="@/components/image.js"></script>
+<script src="@/scripts/image.js"></script>
 <style lang="scss" src="@/styles/components/image.scss"></style>

@@ -1,5 +1,5 @@
-import ImageComponent from '@/components/ImageComponent';
-import HeartIcon from '@/components/HeartIcon';
+import ImageComponent from '@/components/image-component';
+import HeartIcon from '@/components/heart-icon';
 
 export default {
     data() {
@@ -8,8 +8,8 @@ export default {
         }
     },
     components: {
-        ImageComponent,
-        HeartIcon,
+        'image-component': ImageComponent,
+        'heart-icon': HeartIcon,
     },
     name: 'Card',
     methods: {

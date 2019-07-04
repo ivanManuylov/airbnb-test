@@ -13,5 +13,5 @@
     </span>
   </div>
 </template>
-<script src="./heart-icon.js"></script>
+<script src="@/scripts/heart-icon.js"></script>
 <style lang="scss" src="@/styles/components/heart-icon.scss"></style>

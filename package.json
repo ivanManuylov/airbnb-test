@@ -17,7 +17,10 @@
     "sass-loader": "^7.1.0",
     "v2-lazy-list": "^2.2.5",
     "vue": "^2.6.10",
+    "vue-bem-cn": "^1.1.1",
+    "vue-custom-scrollbar": "^1.0.0",
     "vue-router": "^3.0.3",
+    "vuescroll": "^4.13.1",
     "vuetify": "^1.5.16",
     "vuex": "^3.1.1"
   },

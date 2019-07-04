@@ -1,8 +1,8 @@
-import Card from '@/components/Card';
+import card from '@/components/card';
 
 export default {
     components: {
-        Card
+        card,
     },
     name: 'GridWrapper',
     props: {

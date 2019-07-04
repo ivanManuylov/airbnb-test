@@ -1,14 +1,9 @@
 <template>
-  <div>
-    <div class="home">
-      Home
-    </div>
-    <GridWrapper :list="list" />
-  </div>
+  <GridWrapper :list="list" />
 </template>
 
 <script>
-import GridWrapper from '@/components/GridWrapper';
+import GridWrapper from '@/components/grid-wrapper';
 import axios from 'axios';
 
 export default {
@@ -16,6 +11,9 @@ export default {
         return {
             list: [],
         };
+    },
+    getters: {
+
     },
     name: 'home',
     components: {
