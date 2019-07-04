@@ -1,7 +1,9 @@
 <template>
   <div>
-    <div class="home">Home</div>
-    <GridWrapper v-bind:list="list" />
+    <div class="home">
+      Home
+    </div>
+    <GridWrapper :list="list" />
   </div>
 </template>
 
@@ -13,7 +15,7 @@ export default {
     data() {
         return {
             list: [],
-        }
+        };
     },
     name: 'home',
     components: {
@@ -22,12 +24,19 @@ export default {
     methods: {
         async fetch() {
             axios('/api/info.json').then(response => {
-                this.list = response.data.explore_tabs[0].sections[0].trip_templates;
-            })
-        },
+                this.list = this.list.concat(response.data.explore_tabs[0].sections[0].trip_templates);
+            });
+        }
     },
-    created() {
+    mounted() {
         this.fetch();
+        window.onscroll = () => {
+            let bottomOfWindow = document.documentElement.scrollTop + window.innerHeight === document.documentElement.offsetHeight;
+
+            if (bottomOfWindow) {
+                this.fetch();
+            }
+        }
     },
-}
+};
 </script>
