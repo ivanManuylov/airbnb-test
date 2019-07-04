@@ -1,0 +1,72 @@
+
+.card {
+  &__wrapper {
+    margin: 5px;
+  }
+
+  &__inner {
+    position: relative;
+    cursor: pointer;
+  }
+
+  &__tags {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-top: 8px;
+    width: 100%;
+  }
+
+  &__tag {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  &__title-box {
+    text-align: left;
+  }
+
+  &__title {
+    color: rgb(72, 72, 72);
+    font-weight: bold;
+    font-size: 16px;
+  }
+  &__detail,
+  &__details {
+    color: rgb(72, 72, 72);
+  }
+
+  &__language {
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;;
+    color: rgb(118, 118, 118);
+    font-size: 12px;
+    line-height: 1.33em;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &__comment-count {
+    height: 16px;
+    vertical-align: middle;
+  }
+
+  &__likes {
+    display: inline-block;
+  }
+
+  &__rating {
+    font-weight: bold;
+    display: inline-block;
+    height: 14px;
+  }
+
+  &__star {
+    display: inline-block;
+    line-height: 10px;
+    height: 10px;
+    width: 10px;
+    vertical-align: center;
+  }
+}

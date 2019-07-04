@@ -1,0 +1,15 @@
+.heart-icon {
+  color: #fff;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 20px;
+  cursor: pointer;
+  z-index: 5;
+
+  &_active {
+    color: red;
+    fill: red;
+  }
+}
