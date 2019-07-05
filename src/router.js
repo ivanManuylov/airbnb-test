@@ -5,6 +5,7 @@ import Home from './views/Home.vue'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -18,6 +19,18 @@ export default new Router({
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
       component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+    },
+    {
+      path: '/sign-in',
+      name: 'sign-in',
+      pageName: 'sign-in',
+      component: () => import(/* webpackChunkName: "login" */ '@/components/login.vue')
+    },
+    {
+      path: '/sign-up',
+      name: 'sign-up',
+      pageName: 'sign-up',
+      component: () => import(/* webpackChunkName: "login" */ '@/components/login.vue')
     }
   ]
 })

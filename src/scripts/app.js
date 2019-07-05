@@ -1,13 +1,13 @@
 import headerApp from '@/components/header-app';
-import vueCustomScrollbar from 'vue-custom-scrollbar'
 import vuescroll from 'vuescroll';
 import Vue from 'vue';
 import axios from 'axios';
-// import vuescroll from 'vuescroll/dist/vuescroll-slide';
-//
+import modal from '@/components/auth-modal';
+import {mapState} from 'vuex';
+
 Vue.prototype.$vuescrollConfig = {
     bar: {
-        background: '#000'
+        background: '#00c4b2'
     },
     view: {
       width: '100%',
@@ -36,7 +36,7 @@ export default {
     },
     name: 'app',
     components: {
-        vueCustomScrollbar,
+        'auth-modal': modal,
         'header-app': headerApp,
         vuescroll,
     },
@@ -49,5 +49,8 @@ export default {
         scrollHandle({process}) {
             this.loading = process > 0.9;
         }
-    }
+    },
+    computed: mapState('login', {
+        showModal: 'isShowModal'
+    })
 };

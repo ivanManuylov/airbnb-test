@@ -1,5 +1,5 @@
 <template>
-  <GridWrapper :list="list" />
+  <GridWrapper :list="list" :loading="loading"/>
 </template>
 
 <script>
@@ -12,8 +12,11 @@ export default {
             list: [],
         };
     },
-    getters: {
-
+    props: {
+        loading: {
+            type: Boolean,
+            required: true,
+        }
     },
     name: 'home',
     components: {
@@ -26,15 +29,13 @@ export default {
             });
         }
     },
+    updated() {
+        if(this.loading) {
+            this.fetch();
+        }
+    },
     mounted() {
         this.fetch();
-        window.onscroll = () => {
-            let bottomOfWindow = document.documentElement.scrollTop + window.innerHeight === document.documentElement.offsetHeight;
-
-            if (bottomOfWindow) {
-                this.fetch();
-            }
-        }
     },
 };
 </script>

@@ -4,8 +4,7 @@
     <vuescroll @handle-scroll="scrollHandle">
       <router-view :loading="loading" />
     </vuescroll>
-    <!--    <vue-custom-scrollbar class="scroll-area"  :settings="settings" @ps-scroll-y="scrollHandle">-->
-<!--    </vue-custom-scrollbar>-->
+    <auth-modal v-if="showModal"/>
   </div>
 </template>
 
@@ -17,11 +16,14 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
   position: relative;
   width: 100%;
   height: 100vh;
   overflow: hidden;
+}
+.__vuescroll {
+  height: calc(100% - 80px);
+  margin-top: 80px;
 }
 .__view {
   width: 100% !important;

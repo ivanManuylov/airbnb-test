@@ -1,5 +1,8 @@
 .header-app {
   &__wrapper {
+    //background-image: linear-gradient(transparent, #2c3e50 150%);
+    //background-color: white;
+    border-bottom: 1px solid #00c4b2;
     height: 80px;
     position: fixed;
     top: 0;
@@ -7,14 +10,41 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    //z-index: 20;
   }
 
   &__link {
+    background-color: transparent;
+    border: 1px solid #00c4b2;
+    border-radius: 5px;
+    color: #00c4b2;
+    cursor: pointer;
     display: inline-block;
     margin: auto 20px auto 0;
+    outline: none;
+    padding: 10px 15px;
+    transition: background-color .2s, border-color 1s, color 1s;
+    user-select: none;
 
-    :last-child {
+    @media (hover: hover) {
+      &:hover {
+        border-color: #005a48;
+        color: #005a48;
+      }
+    }
+
+    &:active {
+      background-color: #dedede;
+      border-color: #00c4b2;
+      color: #00c4b2;
+    }
+
+    &:last-child {
       margin-right: 0;
     }
   }
 }
+
+//.router-link-exact-active {
+//  background: gray;
+//}

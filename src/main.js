@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import vueBemCn from 'vue-bem-cn';
 import 'materialize-css/dist/js/materialize'
+import store from '@/store/index'
 
 Vue.config.productionTip = false;
 
@@ -17,5 +18,6 @@ Vue.use(vueBemCn, bemConfig);
 
 new Vue({
   router,
+  store,
   render: h => h(App)
 }).$mount('#app');
