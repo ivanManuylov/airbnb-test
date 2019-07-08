@@ -1,12 +1,12 @@
 import {mapActions, mapGetters} from 'vuex';
-import login from '@/components/login';
-import signUp from '@/components/sign-up';
+import AppSignIn from '@/components/AppSignIn';
+import AppSignUp from '@/components/AppSignUp';
 
 export default {
     name: 'auth-modal',
     components: {
-        'sign-in': login,
-        'sign-up': signUp,
+        AppSignIn,
+        AppSignUp,
     },
     methods: {
         handleSubmit() {

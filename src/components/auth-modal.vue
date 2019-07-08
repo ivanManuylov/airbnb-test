@@ -10,9 +10,11 @@
         </span>
       </div>
       <div :class="b('main-wrapper')">
-        <div  :class="b('main')">
-          <sign-in v-if="formName"/>
-          <sign-up v-else />
+        <div :class="b('main')">
+          <keep-alive>
+            <AppSignIn v-if="formName"/>
+            <AppSignUp v-else />
+          </keep-alive>
         </div>
       </div>
     </div>

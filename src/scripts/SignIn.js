@@ -1,12 +1,12 @@
 import VeeValidate from 'vee-validate';
 import Vue from 'vue';
-import customInput from '@/components/сustom-input';
+import VInput from '@/components/VInput'
 
 Vue.use(VeeValidate);
 
 export default {
-    name: 'sign-up',
+    name: 'login',
     components: {
-        'custom-input': customInput,
-    }
+      VInput,
+    },
 }
