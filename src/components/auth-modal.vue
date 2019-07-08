@@ -5,14 +5,15 @@
       <span :class="b('close')" @click="change">&#10006;</span>
       <div :class="b('header')">
         <span :class="b('tabs')">
-          <span :class="b('tab', {active: true})">SIGN IN</span>  |
-          <span :class="b('tab')">SIGN UP</span>
+          <span :class="b('tab', {active: formName})" @click="changeSignIn">SIGN IN</span>  |
+          <span :class="b('tab', {active: !formName})" @click="changeSignUp">SIGN UP</span>
         </span>
       </div>
-      <div :class="b('main')">
-        <form @submit.prevent="handleSubmit">
-          <input type="text" required>
-        </form>
+      <div :class="b('main-wrapper')">
+        <div  :class="b('main')">
+          <sign-in v-if="formName"/>
+          <sign-up v-else />
+        </div>
       </div>
     </div>
   </div>

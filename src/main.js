@@ -14,6 +14,7 @@ const bemConfig = {
     modVal: '_', // value delimeter for modifier
   }
 };
+
 Vue.use(vueBemCn, bemConfig);
 
 new Vue({

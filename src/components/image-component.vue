@@ -8,7 +8,7 @@
         @after-enter="enter"
         @after-leave="leave"
         name="fade"
-        mode="out-in"
+        mode="in-out"
         class="image_collections"
         tag="ul"
         :class="{image_collections_hover: hover}"
